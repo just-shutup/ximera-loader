@@ -1,0 +1,20 @@
+name: Build Windows Application
+on: [push, workflow_dispatch] # workflow_dispatch позволит запускать сборку кнопкой
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      - run: flutter config --enable-windows-desktop
+      - run: flutter pub get
+      - run: flutter build windows --release
+      
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-release-app
+          path: build/windows/x64/runner/Release/
