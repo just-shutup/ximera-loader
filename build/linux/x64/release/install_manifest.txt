@@ -1,0 +1,13 @@
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/ximera_loader_ui
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/icudtl.dat
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/ximera/ximera_loader_ui/build/linux/x64/release/bundle/lib/libapp.so
